@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2fa7639fe9fc5b4aa258c2872fabfaa, type: 3}
+  m_Name: DATA LEVEL
+  m_EditorClassIdentifier: 
+  listLevel:
+  - ID: 0
+    gamePlay: {fileID: 2914473013439200674, guid: c0b4387f5146a9941a914fbe2d80b73f, type: 3}
+    second: 30
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 1
+    gamePlay: {fileID: 770285497162869251, guid: 4207528db144a0a4bb934f25c1eee6e2, type: 3}
+    second: 30
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 2
+    gamePlay: {fileID: 6612156676338925510, guid: a06a324f082afdf479f3b8d12a259dea, type: 3}
+    second: 40
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 3
+    gamePlay: {fileID: 8970580212508130702, guid: 4249fc7c232be2343be733bad6a8bffc, type: 3}
+    second: 40
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 4
+    gamePlay: {fileID: 4626693858661083759, guid: c9c419ccac0e7cc40807591f72e39ab2, type: 3}
+    second: 50
+    greenEgg: 3
+    goldEgg: 1
+  - ID: 5
+    gamePlay: {fileID: 8109010714585483872, guid: fc56b18563fcf19448d815a8930121a8, type: 3}
+    second: 50
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 6
+    gamePlay: {fileID: 6624992491381579979, guid: 20e883179c0d4b341942f077a50af095, type: 3}
+    second: 60
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 7
+    gamePlay: {fileID: 4645156215117253975, guid: 5670f5b4b9dd2fe4caee67e25dd74047, type: 3}
+    second: 60
+    greenEgg: 3
+    goldEgg: 1
+  - ID: 8
+    gamePlay: {fileID: 3711454892677023313, guid: db7e6a4ae7fb75f4b86dc4c8039bc7a3, type: 3}
+    second: 60
+    greenEgg: 3
+    goldEgg: 1
+  - ID: 9
+    gamePlay: {fileID: 267607842697883734, guid: 7da2d3fa81ac5174cb3c2082c1ddb779, type: 3}
+    second: 60
+    greenEgg: 2
+    goldEgg: 1
+  - ID: 10
+    gamePlay: {fileID: 2753799404715977849, guid: 833c95c9ef0493d4ebba369d152f205a, type: 3}
+    second: 60
+    greenEgg: 3
+    goldEgg: 1
